@@ -1,0 +1,18 @@
+[
+{
+  "modid": "Buildrs_Gun_Mod",
+  "name": "Buildr`s Gun Mod!",
+  "description": "Adding Guns into the game, one mark at a time!",
+  "version": "0.0.1",
+  "credits": "Created by Buildr45",
+  "logoFile": "/gfx/buildcraft/logo.png",
+  "mcversion": "",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "Buildr45", "JoshKiller2" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+         "mod_MinecraftForge"
+]
+}
